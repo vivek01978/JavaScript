@@ -146,7 +146,7 @@
 
 // naming conversion & best practics
 // camel case
-// 
+
 
 // let 1name = "vivek";
 // let first name = "vivek"
@@ -257,6 +257,22 @@
 
 
 // truthy & false values
+
+// conditional statement
+// loop 
+for(let i = 1 ; i<=5 ;  i++)
+    {
+    let row = ""
+
+    for(let j = 1 ; j <=5 ; j++)
+        {
+        row += "* "
+
+    }
+    console.log(row);
+}
+console.log();
+
 
 
 
