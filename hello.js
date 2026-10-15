@@ -260,18 +260,174 @@
 
 // conditional statement
 // loop 
-for(let i = 1 ; i<=5 ;  i++)
-    {
-    let row = ""
 
-    for(let j = 1 ; j <=5 ; j++)
-        {
-        row += "* "
+// for(let i = 1 ; i<=5 ;  i++)
+//     {
+//     let row = " "
 
-    }
-    console.log(row);
-}
-console.log();
+//     for(let j = 1 ; j <=5 ; j++)
+//         {
+//         row += "* "
+
+//     }
+//     console.log(row);
+// }
+// let  a = -1
+// if(a==1){
+//     console.log("positive")
+// }else if(a==0)
+// {
+//     console.log("negative")
+// }
+// else
+//     {
+//     console.log("negative")
+// }
+
+
+// let b = 3;
+// if(b%2==0){
+//     console.log("even")
+// }else{
+//     console.log("odd")
+// }
+
+// console.log("hello js")
+// alert("please login first");
+
+// let name = prompt("enter your name")
+// console.log( name )
+
+//  function+
+
+
+// function great (){
+//     console.log("hello world")
+// }
+
+// great()
+// call ()
+// let obj  ={
+//     name : "vivek"
+// }
+// let obj2 = {
+//     name : "gupta"
+// } 
+// function greet()
+// {
+//     console.log(`hello this is my name${this.name}`)
+// }
+// let greetuser = greet.bind(obj)
+// greetuser();
+
+// array in javascript
+
+// let arr = [ 1,2, 9,4,5,6 ]
+// console.log(arr)
+
+// let arra = ["apple" , "vivek" , "gupta" ,"anas" ]
+// console.log(arr[0])
+
+// // array length
+// console.log(arr.length)
+
+
+// Array can store mutipal data type
+
+// let diff  = [ 1 , "apple " , true , false , null , undefined , {}]
+// console.log(diff)
+
+
+// let add = [ ]
+// add[9] = "gupta"
+// add[0] = "vivek"
+// console.log(add)
+
+// Array operations
+// push 
+// pop
+// unshift
+// shift
+// let arr = [ "apple ", "vivek ", "orange"]
+// console.log(arr)
+
+// arr.push("Anas");
+// console.log(arr)
+// push last me add krta ha  or repersent krta h new length
+
+// let arr =  [ "apple ", "vivek ", "orange"]
+// console.log(arr)
+// arr.pop()
+// console.log(arr)
+// pop last mai ek Element remove krega
+
+// let arr =  [ "apple ", "vivek ", "orange"]
+// arr.pop()
+// console.log(arr)
+// console.log(arr.pop)
+// console.log(arr)
+
+
+// let arr =  [ "apple ", "vivek ", "orange"]
+// console.log(arr)
+// arr.unshift( "anas " , "Deep")
+// console.log(arr)
+
+
+// let arr =  [ "apple ", "vivek ", "orange"]
+// console.log(arr)
+// arr.shift()
+// arr.shift()
+// console.log(arr)
+
+
+// let array = [ 1,2,3,4,5,6,7, 8, 9]
+// console.log(array.length)
+// array.pop()
+// console.log(array)
+// array.shift()
+// console.log(array )
+// array.unshift(4)
+// console.log(array)
+
+
+// let arr  = [ 1,2,3,4,6,8]
+// console.log(arr)
+// arr.splice(2,2)
+// 2 --> se starting index  ha 
+// 1 --> number of elment remove ktna h
+// console.log(arr)
+//  array me sploce se add remove or replce
+
+// let fruits = [ " apple" , "mango" , "banana"  ]
+// console.log(fruits)
+// fruits.splice(1,0 , "orange")
+// console.log(fruits)
+
+
+// let arr  = [ 1,2,34,4,5,68,8]
+// arr.slice(2,4)
+// let returnArray = arr.slice(2,4)
+// console.log(arr)
+// console.log(returnArray)
+
+// let numbers = [ 1,2,3,4,5,67,8,]
+// console.log( numbers.includes(5))
+// includes check krega ki value arr me hai a nhi
+// output boolean mai aayga 
+
+
+// Arrat iteration methods
+// for each  , for of  
+
+
+
+
+
+
+
+
+
 
 
 
