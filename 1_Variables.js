@@ -35,6 +35,8 @@
 //  two type of data types
 // primitive
 // String , Number , Bigint , boolean , undefined , null , symbol
+
+// String
 // let fullname = "vivek gupta"
 // console.log(typeof(fullname))
 
@@ -47,24 +49,24 @@
 // console.log(y)
 // console.log(typeof(y))
 
-// boolean
-let a = true
-console.log(a)
-console.log(typeof(a))
+// // boolean
+// let a = true
+// console.log(a)
+// console.log(typeof(a))
 
-// null
-let nul = null
-console.log(nul)
-console.log(typeof(nul))
+// // null
+// let nul = null
+// console.log(nul)
+// console.log(typeof(nul))
 
-// undefined
-let x;
-console.log(x)
+// // undefined
+// let x;
+// console.log(x)
 
-// symbol
-let z = Symbol("hello!")
-console.log(z)
-console.log(typeof(z))
+// // symbol
+// let z = Symbol("hello!")
+// console.log(z)
+// console.log(typeof(z))
 
 // non primitive
 // object , Array , functio , map , set , data
