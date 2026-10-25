@@ -71,19 +71,19 @@
 // non primitive
 // object , Array , functio , map , set , data
 
-const student = {
-    fullname : "vivek Gupta",
-    age : 20,
-    cgpa : 6.5,
-    ispass : true,
-};
+// const student = {
+//     fullname : "vivek Gupta",
+//     age : 20,
+//     cgpa : 6.5,
+//     ispass : true,
+// };
 // student[ "age"] = student ["age"] + 1
-student[ "age"] = 25
-student["fullname"] = " vivek"
+// student[ "age"] = 25
+// student["fullname"] = " vivek"
 
-console.log(student.age)
-console.log(student.name)
-console.log(student)
+// console.log(student.age)
+// console.log(student.name)
+// console.log(student)
 // console.log(typeof(student))
 // console.log(student["age"])
 // console.log(student.age)
